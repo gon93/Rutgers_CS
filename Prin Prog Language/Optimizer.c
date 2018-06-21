@@ -1,9 +1,8 @@
 /*
  *********************************************
  *  314 Principles of Programming Languages  *
- *  Spring 2017                              *
- *  Author: Ulrich Kremer                    *
- *  Student Version                          *
+ *  Mar 27,2017                              *
+ *  Author: Seong Kon Kim                    *
  *********************************************
  */
 
