@@ -1,8 +1,8 @@
 /*
 //
 //Seong Kon Kim
-//Dec 9, 2016
-//format.c
+//Oct 21, 2016
+//format.h
 */
 
 #include <stdio.h>
