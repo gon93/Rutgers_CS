@@ -5,7 +5,7 @@
 *  Zitian Qin                               *
 *  Alon Flor                                *
 *  Dec 14,2017                              *
-*  Project 3                                *
+*  sorter_client.c                          *
 *********************************************
 */
 
