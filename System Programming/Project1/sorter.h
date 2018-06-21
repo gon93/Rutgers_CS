@@ -3,7 +3,7 @@
 *  213 System Programming                   *
 *  Seong Kon Kim                            *
 *  Oct 2,2017                               *
-*  Project 1                                *
+*  sorter.h                                 *
 *********************************************
 */
 
