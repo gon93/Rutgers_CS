@@ -1,4 +1,9 @@
-
+/*
+//
+//Seong Kon Kim
+//Nov6,2016
+//nCr.s
+*/
 .globl nCr
         .type   nCr, @function
 nCr:
