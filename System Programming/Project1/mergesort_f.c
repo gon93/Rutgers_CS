@@ -3,7 +3,7 @@
 *  213 System Programming                   *
 *  Seong Kon Kim                            *
 *  Oct 2,2017                               *
-*  mergesort_f.c                          *
+*  mergesort_f.c                            *
 *********************************************
 */
 
