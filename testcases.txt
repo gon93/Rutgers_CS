@@ -1,0 +1,63 @@
+Test cases
+
+Input:"0 0g 0x 0. 01"
+Output:	zero 0
+	zero 0
+	invalid [0x67]
+	malFunction 0x
+	malFunction 0.
+	octal 01
+
+
+Input:"00708 0x1239 0x12g      0.123 "
+Output:	octal 0070
+	invalid [0x38]
+	hex 0x1239
+	hex 0x12
+	invalid [0x67]
+	float 0.123
+
+
+Input:"0.123e   0.975e123 0.583E25    "
+Output:	float 0.123
+	invalid [0x65]
+	float 0.975e123
+	float 0.583E25
+
+
+Input:"0.123e- 0.25850E-7489"
+Output:	malFunction 0.123e
+	invalid [0x2d]
+	float 0.25850E-7489
+
+
+Input:"1 1g 1230"
+Output:	decimal 1
+	decimal 1
+	invalid [0x67]
+	decimal 1230
+
+
+Input:"1. 1.1234 1e 1e+1 234234E-2g "
+Output:malFunction 1.
+	float 1.1234
+	decimal 1
+	invalid [0x65]
+	float 1e+1
+	float 234234E-2
+	invalid [0x67]	
+
+
+Input: "HE@#O 123.e 1234.4E-1 "
+Output:	invalid [0x48]
+invalid [0x45]
+invalid [0x40]
+invalid [0x23]
+invalid [0x4f]
+decimal 123
+invalid [0x2e]
+invalid [0x65]
+decimal 1234
+invalid [0x2e]
+float 4E-1
+
