@@ -1,7 +1,8 @@
 /*
 *********************************************
 *  314 Principles of Programming Languages  *
-*  Spring 2017                              *
+*  Seong Kon Kim                            *
+*  May 6,2017                               *
 *  Project 3                                *
 *********************************************
 */
