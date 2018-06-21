@@ -1,6 +1,8 @@
 /*
-*Seong Kon Kim
-*format.h
+//
+//Seong Kon Kim
+//Dec 9, 2016
+//format.h
 */
 
 //function prototype
