@@ -4,7 +4,7 @@
 *  Seong Kon Kim                            *
 *  Zitian Qui                               *
 *  Alon Flor                                *
-*  Dec 14,2017                               *
+*  Dec 14,2017                              *
 *  mergesort_num.c                          *
 *********************************************
 */
