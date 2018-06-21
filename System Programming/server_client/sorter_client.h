@@ -5,7 +5,7 @@
 *  Zitian Qui                               *
 *  Alon Flor                                *
 *  Dec 14,2017                              *
-*  mergesort_num.c                          *
+*  sorter_cleint.h                          *
 *********************************************
 */
 
