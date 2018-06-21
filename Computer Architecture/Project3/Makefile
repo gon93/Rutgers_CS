@@ -1,5 +1,4 @@
-formula: formula
-	gcc -m32 -Wall -o formula formula.c nCr.s
-
+mystery: mystery.c
+	gcc -Wall -o mystery mystery.c
 clean:
-	rm formula
+	rm mystery
