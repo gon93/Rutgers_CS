@@ -1,3 +1,14 @@
+/*
+*********************************************
+*  213 System Programming                   *
+*  Seong Kon Kim                            *
+*  Zitian Qui                               *
+*  Alon Flor                                *
+*  Oct 2,2017                               *
+*  mergesort_num.c                          *
+*********************************************
+*/
+
 #include <stdlib.h>
 #include <unistd.h>
 #include <stdio.h>
