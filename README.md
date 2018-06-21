@@ -6,6 +6,7 @@ My name is Seong Kon Kim
 This GitHub contains every programming code I have participated / created while attending Rutgers Univeristy
 
 I have use:
+  
 -Java
 -C/C++
 -Python (Beginner)
