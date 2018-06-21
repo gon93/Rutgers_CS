@@ -1,6 +1,8 @@
 /*
-*Seong Kon Kim
-*calc.h
+//
+//Seong Kon Kim
+//Dec 9, 2016
+//calc.h
 */
 
 
