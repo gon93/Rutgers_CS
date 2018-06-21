@@ -1,6 +1,8 @@
 /*
-*Seong Kon Kim
-*calc.c
+//
+//Seong Kon Kim
+//Dec 9, 2016
+//calc.c
 */
 
 #include <stdio.h>
