@@ -1,3 +1,9 @@
+/*
+//
+//Seong Kon Kim
+//Sep 30,2016
+//tokenizer.c
+*/
 
 #include <stdio.h>
 #include <ctype.h>
