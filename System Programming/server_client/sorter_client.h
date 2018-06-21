@@ -1,12 +1,15 @@
-/*****
-*
-*	Define structures and function prototypes for your sorter
-*
-*
-*
-******/
+/*
+*********************************************
+*  213 System Programming                   *
+*  Seong Kon Kim                            *
+*  Zitian Qui                               *
+*  Alon Flor                                *
+*  Oct 2,2017                               *
+*  mergesort_num.c                          *
+*********************************************
+*/
 
-//Suggestion: define a struct that mirrors a record (row) of the data set
+
 #ifndef _mydefs
 #define _mydefs
  struct aRow{
