@@ -1,14 +1,3 @@
-/*
-*********************************************
-*  214 System Programming                   *
-*  Seong Kon Kim                            *
-*  Zitian Qin                               *
-*  Alon Flor                                *
-*  Dec 14,2017                              *
-*  sorter_client.c                          *
-*********************************************
-*/
-
 #include <stdlib.h>
 #include <unistd.h>
 #include <stdio.h>
