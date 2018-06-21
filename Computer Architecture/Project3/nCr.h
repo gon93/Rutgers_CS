@@ -1,3 +1,9 @@
+/*
+//
+//Seong Kon Kim
+//Nov6,2016
+//nCr.h
+*/
 #ifndef _NCR_H_
 #define _NCR_H_
 
