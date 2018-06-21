@@ -1,6 +1,8 @@
 /*
-*
-*formula
+//
+//Seong Kon Kim
+//Nov6,2016
+//formula.c
 */
 
 #include <stdio.h>
