@@ -1,4 +1,5 @@
 #Rutgers_CS
 Rutgers(2012-2019)  
---2 years of military Service (2014-2016)  
- All the taken CS classes in Rutgers
+My name is Seong Kon Kim.
+  
+This github is every coding program I have participated / created while attending Rutgers Univeristy   
