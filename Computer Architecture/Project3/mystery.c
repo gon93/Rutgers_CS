@@ -1,7 +1,10 @@
 /*
-*mystery.c
-*Seong Kon Kim
+//
+//Seong Kon Kim
+//Nov 6,2016
+//mystery.c
 */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
