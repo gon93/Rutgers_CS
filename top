@@ -1,0 +1,569 @@
+[33mcommit ab98d1a08031be50a92074e5df2e5042368353d5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 16:59:59 2018 +0900
+
+    Delete LICENSE.md
+
+[33mcommit bb349450a12ba7d5f72e66ffe874ccc35ae62e6d[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 16:47:55 2018 +0900
+
+    Update README.md
+
+[33mcommit 4cfb0d48a011cb9c361f2e39b881decacd07f75a[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 16:45:32 2018 +0900
+
+    Update README.md
+
+[33mcommit 5ffbf665708acccd1ce3da137050a0b17018dd97[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 16:45:01 2018 +0900
+
+    Update README.md
+
+[33mcommit d6a5968ce16caf393c3c3d97eee614391ae95609[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 16:44:41 2018 +0900
+
+    Update README.md
+
+[33mcommit fd22b70277c5b1d4db1a8715fc03b94974a8a841[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 16:42:55 2018 +0900
+
+    Update README.md
+
+[33mcommit cbf064496d2305dcd101e5d09508b6d3692ee043[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 16:42:24 2018 +0900
+
+    Update README.md
+
+[33mcommit 3ebb170cd62b9b2cc6147157349a94dc07863e1f[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 16:41:25 2018 +0900
+
+    Update README.md
+
+[33mcommit ef69992f8f44126d69f0e77c32f7b822b8d1f9f1[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 16:37:55 2018 +0900
+
+    Update README.md
+
+[33mcommit 4866d96e94ea095737ed9240c00aaa605ec1ccdf[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 16:37:37 2018 +0900
+
+    Update README.md
+
+[33mcommit da59376dadc9ccc799cac4cf41586614f68cca8d[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 16:32:48 2018 +0900
+
+    Update mergesort.c
+
+[33mcommit 713e65380f2896ba60ff807e3a13e5d3e2a32cb1[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 16:32:28 2018 +0900
+
+    Update sorter_client.c
+
+[33mcommit d4d7f5744eb898a7dffc50a187ff036bab15ca93[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 16:31:59 2018 +0900
+
+    Update sorter_server.h
+
+[33mcommit 14f95a30adcb8ca51e65469753a30a8d48dc2e16[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 16:31:35 2018 +0900
+
+    Update sorter_client.h
+
+[33mcommit d1c9bd2639fb93a4e09aacdf9911165c9dac529e[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 16:31:12 2018 +0900
+
+    Update sorter_client.h
+
+[33mcommit 8ce5ec9aefb68875ad96035eef4d04c31359d1eb[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 16:31:03 2018 +0900
+
+    Update sorter_client.h
+
+[33mcommit e34825faa51301d66e7f95cccc613bda74b135cd[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 16:30:42 2018 +0900
+
+    Update sorter_client.h
+
+[33mcommit 71f7b3f30af0dc57bd9f5e94a3eb25576194c9d4[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 16:30:26 2018 +0900
+
+    Update sorter_client.c
+
+[33mcommit 0ebc33eee79ad4ae299725098dc2353c4950e66c[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 16:28:03 2018 +0900
+
+    Update readme.md
+
+[33mcommit f06206f318a7352b21ddfb82bbda6f735a51c20a[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 16:27:38 2018 +0900
+
+    Create readme.md
+
+[33mcommit 930bf89c181a1af1db304cd721ef75c9a1d17615[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 16:24:04 2018 +0900
+
+    Delete Read me.docx
+
+[33mcommit 18f6ac5b0d4f0e5de699daa4ae9e76ddab147612[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 16:23:29 2018 +0900
+
+    Add files via upload
+
+[33mcommit 5f6b83d2287611b5cd8751f88291ddb745e0d5f7[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 16:22:41 2018 +0900
+
+    Update sorter_client.c
+
+[33mcommit 109f7a7fdd945ad08f8ba3f24ed31c75d31d4949[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 16:22:21 2018 +0900
+
+    Update and rename System Programming/sorter_client.c to System Programming/server_client/sorter_client.c
+
+[33mcommit 7cf3429c6ad4e6765ddb25b0607b3406900bddd6[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 16:19:21 2018 +0900
+
+    Add files via upload
+
+[33mcommit f3b56f05523eca1d97dcccdab87141f1287f569a[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 16:18:47 2018 +0900
+
+    Update readme.md
+
+[33mcommit ab5fd825facc30e62a5b3e55c5d713f0bcb42fc3[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 16:17:31 2018 +0900
+
+    Update readme.md
+
+[33mcommit de8fd3d330d5415a1db828c615160f983c9d12aa[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 16:17:20 2018 +0900
+
+    Update readme.md
+
+[33mcommit d1aed4dde343fa7cd3c1d75d9f652f5743a3f197[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 16:14:01 2018 +0900
+
+    Create readme.md
+
+[33mcommit f306238b58b57bd063d95b477f6d1871a7c57e3a[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 16:13:31 2018 +0900
+
+    Update README.md
+
+[33mcommit 67ee9102b46eeed7dfafc62bd48306a9317fa541[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 16:11:39 2018 +0900
+
+    Update README.md
+
+[33mcommit ddf1196e8e499a46baaa263cc2081714482c3aaa[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 16:10:26 2018 +0900
+
+    Update README.md
+
+[33mcommit ec1f7b6e4be1f29d6f94f9ac886589f628e6a49c[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 16:10:02 2018 +0900
+
+    Create README.md
+
+[33mcommit 489321dfe7d96d2d4965ff51d6eaac5c14b2ef0a[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 16:08:56 2018 +0900
+
+    Add files via upload
+
+[33mcommit 5395ba572ac96b77d9efdb253a86609d0c36d716[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 16:07:17 2018 +0900
+
+    Using Multi-Process to sort
+
+[33mcommit cc0c29ca9c0196875580f9c4ae49dbd1f723a005[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 15:50:02 2018 +0900
+
+    Add files via upload
+
+[33mcommit 6f209304bfac5f5c430fef757b4db95783e731fd[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 15:49:38 2018 +0900
+
+    Rename System Programming/sorter.h to System Programming/Multi-Process Sorter/sorter.h
+
+[33mcommit 45f875151a64e569cafc758c2119cbce4f4c3c62[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 15:48:57 2018 +0900
+
+    Add files via upload
+
+[33mcommit e21157c96664d8a1aaaec2bbc7e3629e98daba12[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 15:46:04 2018 +0900
+
+    Update mergesort_f.c
+
+[33mcommit 092917ad5bf930b594e00e9694afb6a9fa6d5caf[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 15:45:49 2018 +0900
+
+    Update sorter.h
+
+[33mcommit ea8346bb4a7a9f8297ea96f79b0fa10aaad1951d[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 15:45:23 2018 +0900
+
+    Update sorter.c
+
+[33mcommit a4b07c0ac4ced61c12bae6a2054fd4501779def8[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 15:44:18 2018 +0900
+
+    Update mergesort_f.c
+
+[33mcommit 398951b5bb3225b720fd2786be53d9bc735719d5[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 15:43:41 2018 +0900
+
+    Update mergesort.c
+
+[33mcommit 3dde0f8cbd7561aa0ca39b6fe345cbc89cce28b0[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 15:42:48 2018 +0900
+
+    Update mergesort_num.c
+
+[33mcommit f6409cf1d8fe608d53b29bd35939a94c1cc4e92a[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 15:42:09 2018 +0900
+
+    Add files via upload
+
+[33mcommit cd3e216c9428a59c48c85926002e167944bb81db[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 15:40:58 2018 +0900
+
+    Add files via upload
+
+[33mcommit 183c400caf132b86da5dd7b1de7a031a8950d44c[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 15:40:14 2018 +0900
+
+    Create sorter.h
+
+[33mcommit 3c3785e4710c01e8840345af1295c657df747710[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 15:35:33 2018 +0900
+
+    Update spell_t4_singleloop.c
+
+[33mcommit ef48ce09a8a394e7113332edbe049948f1c558b0[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 15:35:19 2018 +0900
+
+    Update spell_t4_fastest.c
+
+[33mcommit 0d1131bca76ed2bb13f0e2d5ed879a64df3b779a[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 15:35:05 2018 +0900
+
+    Update spell_t2_singleloop.c
+
+[33mcommit 51313b47b98bae0cd0aa0c8069a9605dee28f896[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 15:34:42 2018 +0900
+
+    Update spell_t2_fastest.c
+
+[33mcommit 2373960919649db7c24e8eab7cc1192c76e53b74[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 15:29:15 2018 +0900
+
+    Add files via upload
+
+[33mcommit 2e90dd74af3799ecf3b616e85f4aac5f8610bea0[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 15:21:41 2018 +0900
+
+    Create hh
+
+[33mcommit dac77e6d99a466dce30edff4ddf7c4690909729e[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 15:15:50 2018 +0900
+
+    Rename Prin Prog Language/Optimizer.c to Prin Prog Language/Project1/Optimizer.c
+
+[33mcommit 91439213241975047fa6be1fb93b2a95bec80959[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 15:15:34 2018 +0900
+
+    Rename Prin Prog Language/InstrUtils.c to Prin Prog Language/Project1/InstrUtils.c
+
+[33mcommit 102d4fb6a32689438c94a1869c55f6d803690621[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 15:15:02 2018 +0900
+
+    Rename Prin Prog Language/Compiler.c to Prin Prog Language/Project1/Compiler.c
+
+[33mcommit 3c0514f70ef139d8910ae537e60908a2998dfc49[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 15:09:14 2018 +0900
+
+    Add files via upload
+
+[33mcommit cb35cbcd9f583b4c5bc75bd6f4013ffd8c1c80fe[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 15:08:54 2018 +0900
+
+    Update and rename Optimizer.c to Prin Prog Language/Optimizer.c
+
+[33mcommit 5f5fe3463a5e3e00167b7e38cf90be767d935de6[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 15:03:59 2018 +0900
+
+    Add files via upload
+
+[33mcommit 3458b1b0cc53c9a0ac87bc73152b6bf02bf3c909[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 15:01:52 2018 +0900
+
+    Update mystery.h
+
+[33mcommit 8eb5dbdb9649f1d88135a7d50dad4899bbc69b58[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 15:01:31 2018 +0900
+
+    Update mystery.c
+
+[33mcommit c7c67f4dbce0cd3f10d448867e9666b7fcdbb9d4[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 15:00:09 2018 +0900
+
+    Mystery(Fibonacci Sequence)
+
+[33mcommit 54b718bf8af9ecdd3172c8ddd199aca68d0e0b14[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 14:59:02 2018 +0900
+
+    Update tokenizer.c
+
+[33mcommit 28a7b30c2c01377beb5eb53edbd2363a6e234169[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 14:58:05 2018 +0900
+
+    Computer Arithmetic
+
+[33mcommit 4651e2ee986f187a12745f782a7f8a33c9bf98d2[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 14:57:37 2018 +0900
+
+    Update calc.h
+
+[33mcommit 36b531d7d84b81301b2c4f0995d9f77f8e04d1e5[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 14:57:09 2018 +0900
+
+    Update format.c
+
+[33mcommit 2600d25254f10adaca9010f7228e3f52e05f4088[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 14:56:55 2018 +0900
+
+    Update format.h
+
+[33mcommit c7141037f388f1343dc139fbd6a18d84e683b91b[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 14:56:08 2018 +0900
+
+    Update nCr.h
+
+[33mcommit ea96ef9fc3d54d0f600f2439616c44990a7575b9[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 14:55:43 2018 +0900
+
+    Update nCr.s
+
+[33mcommit 340e2f37d67f44682cdad0ac39be967768fc28b4[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 14:55:05 2018 +0900
+
+    Update formula.h
+
+[33mcommit 4db94c01f644a51c729e67272468785a8e587d19[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 14:54:48 2018 +0900
+
+    Update formula.c
+
+[33mcommit b8f362a96f475e055898f9747889743ff422ce92[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 14:49:30 2018 +0900
+
+    Using Assembly Code with C
+
+[33mcommit dd7d8a063ad94c3e5bffe97d72b183bf62f9fb1c[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 14:48:45 2018 +0900
+
+    Rename Computer Architecture/nCr.s to Computer Architecture/Project3/nCr.s
+
+[33mcommit 4cee8d004feb6c15666bc7a130aa26f9a94db4d1[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 14:48:18 2018 +0900
+
+    Add files via upload
+
+[33mcommit cce858027290ada5a690428b70eb50475d1afc5c[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 14:46:46 2018 +0900
+
+    Delete oh
+
+[33mcommit f7eb8e156a802fec46c4a7b72913ec38f8c78961[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 14:46:32 2018 +0900
+
+    Update format.h
+
+[33mcommit c4495f5dcd7455ea2bd437b6d5a2edc95014a4cb[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 14:44:27 2018 +0900
+
+    Finding out a format by reading Binary Numbers
+
+[33mcommit ab487bacf0247548073a489b76a2381dd3d48e95[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 14:43:32 2018 +0900
+
+    Update calc.h
+
+[33mcommit be6e94fa4556cadc67df80cac3aab0da0bd50d38[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 14:43:11 2018 +0900
+
+    Calculating Different Base Number Variables
+
+[33mcommit e2992417e818941e794d16c04c1a43371792423d[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 14:38:58 2018 +0900
+
+    Add files via upload
+
+[33mcommit c036bc9af1e5ecaf6ac0d5510325cc617e1e10d3[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 14:38:11 2018 +0900
+
+    Tokenizer Testcases
+
+[33mcommit 9d7d695539fec572c73eda58bf4102475f6bedca[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 14:37:30 2018 +0900
+
+    Rename Computer Architecture/tokenizer.c to Computer Architecture/Project1/tokenizer.c
+
+[33mcommit 7388dc81241acc9b2870fb944448780196385d95[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 14:37:05 2018 +0900
+
+    Rename Computer Architecture/project2 to Computer Architecture/Project2/oh
+
+[33mcommit d87e8ff6146b148ecb0956a1c4702c89a2f567d7[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 14:36:26 2018 +0900
+
+    Computer Arithmetic
+
+[33mcommit 2a9dd90e5595855e9880b223c83d5d7e6c8cdeb7[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 14:34:37 2018 +0900
+
+    Tokenizer.c testcases
+
+[33mcommit c0fa42cb866e0f1ffd3ac3007bb124dca69803b8[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 14:33:59 2018 +0900
+
+    tokenizer testcase
+
+[33mcommit 9ab90e47b92b3bca2e84ff05f468aa1d8cff016b[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 14:31:18 2018 +0900
+
+    Rename testcases.txt. to testcases.txt
+
+[33mcommit cb32d2757ebce970410faecfd0958c1bc6ec6180[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 14:29:31 2018 +0900
+
+    Rename testcases.txt to Computer Architecture/testcases.txt.
+
+[33mcommit 30d533f8e5b5c2f9a485fafa277c80d76d8c87ec[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 14:28:56 2018 +0900
+
+    Rename tokenizer.c to Computer Architecture/tokenizer.c
+
+[33mcommit 74f9a605108b8e0a0847114fa911c0755342d32b[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 14:28:17 2018 +0900
+
+    Delete readme.pdf
+
+[33mcommit 192954bad9be5ea22f26f28eabb3e4aaf562d985[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 14:27:45 2018 +0900
+
+    Rename LISCENSE.MD to LICENSE.md
+
+[33mcommit 888faf448986f4783a48375b59d68a7dd0f7449e[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 14:26:53 2018 +0900
+
+    Create LISCENSE.MD
+
+[33mcommit 259f386288518ffab2788b6e2b93c1ef6b9cc4f5[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 14:26:34 2018 +0900
+
+    Delete LICENSE
+
+[33mcommit 392e2f42cf9932388699d033c8ddcfb16ce298dd[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 14:21:20 2018 +0900
+
+    Computer Architecture
+
+[33mcommit bf891aa5b146b2a7b97042c92aa48a8c7da786a0[m
+Author: gon93 <32226461+gon93@users.noreply.github.com>
+Date:   Thu Jun 21 14:13:52 2018 +0900
+
+    Create LICENSE
